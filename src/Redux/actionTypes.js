@@ -1,0 +1,9 @@
+
+
+export const GET_DATA="GET_DATA";
+export const BOOK_SLOT="BOOK_SLOT";
+
+
+export const ADD_APPOINTMENT="ADD_APPOINTMENT";
+
+export const DELETE_APPOINTMENT="DELETE_APPOINTMENT";
